@@ -50,11 +50,11 @@
 
 <h3 align="center">🚀 ¡Conéctate conmigo!</h3>
 <div align="center">
-<a href="https://www.linkedin.com/in/TU-USUARIO-LINKEDIN/" target="_blank">
+<a href="https://www.linkedin.com/in/nicolasduquea/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="linkedin" width="50" height="50"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:TU-CORREO@GMAIL.COM" target="_blank">
+<a href="mailto:nicolas.duque1821@gmail.com" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" width="50" height="50"/>
 </a>
 </div>
