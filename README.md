@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hola soy Nicolas 👋
 
-<!--
-**NicolasDuqueA123/NicolasDuqueA123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ¡Hola! Soy Nicolás 👋
 
-Here are some ideas to get you started:
+Soy un estudiante apasionado por la tecnología y el desarrollo web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Actualmente estoy trabajando en **mi blog personal**
+- 🌱 Estoy aprendiendo **Git, GitHub y HTML**
+- 💬 Pregúntame sobre **tecnología**
+- 📫 Cómo contactarme: **tu-email@ejemplo.com**
+
+---
+### 🛠️ Tecnologías que uso:
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
